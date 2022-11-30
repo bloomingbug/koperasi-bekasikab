@@ -1,0 +1,31 @@
+section.tutorial {
+  margin-top: 98px;
+  padding: 50px 0 200px;
+  background-color: var(--bs-kpgreen);
+
+  .video-container {
+    height: 400px;
+    overflow: hidden;
+    margin-top: 24px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+  }
+
+  .syarat-container {
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+
+    ul li::marker {
+      color: var(--bs-kpyellow);
+    }
+  }
+
+  hr {
+    margin: 56px 0;
+    border: 1px solid white;
+  }
+}

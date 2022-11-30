@@ -1,0 +1,10 @@
+section.link-terkait {
+  background-color: white;
+  padding: 32px 0;
+  overflow: hidden;
+  position: relative;
+
+  .link-item {
+    max-height: 150px;
+  }
+}

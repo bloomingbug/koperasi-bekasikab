@@ -1,0 +1,29 @@
+section.alur-pendaftaran {
+  padding-top: 158px;
+  overflow: hidden;
+  position: relative;
+
+  .alur-pendaftaran-body {
+    margin-top: 56px;
+    margin-bottom: 56px;
+    border-radius: 55px;
+    overflow: hidden;
+
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+  }
+}
+
+@media (max-width: 991px) {
+  section.alur-pendaftaran {
+    padding-top: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  section.alur-pendaftaran {
+    padding-top: 58px;
+  }
+}

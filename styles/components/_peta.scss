@@ -1,0 +1,28 @@
+section.peta {
+  position: relative;
+  padding-top: 148px;
+  overflow: hidden;
+
+  .peta-container {
+    height: 600px;
+    overflow: hidden;
+    margin-bottom: 48px;
+    border-radius: 35px;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    -ms-border-radius: 35px;
+    -o-border-radius: 35px;
+}
+
+  @media (max-width: 767px){
+    .peta-container {
+      height: 400px;
+    }
+  }
+
+  @media (max-width: 991px){
+    .peta-container {
+      height: 300px;
+    }
+  }
+}

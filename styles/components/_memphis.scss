@@ -1,0 +1,67 @@
+.memphis-1 {
+  position: absolute;
+  left: 35%;
+  bottom: 25px;
+  z-index: -100;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+}
+
+.memphis-2 {
+  height: 200px;
+  position: absolute;
+  right: -100px;
+  top: 50px;
+  z-index: -99;
+}
+
+.memphis-3 {
+  height: 200px;
+  position: absolute;
+  left: -100px;
+  bottom: 35px;
+  z-index: -98;
+}
+
+.memphis-4 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -97;
+}
+
+.memphis-5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: -96;
+}
+
+.memphis-6 {
+  height: 200px;
+  position: absolute;
+  left: -100px;
+  top: 250px;
+  z-index: -94;
+}
+
+.memphis-7 {
+  height: 200px;
+  position: absolute;
+  right: -100px;
+  bottom: 100px;
+  z-index: -93;
+}
+
+.memphis-8 {
+  position: absolute;
+  left: 50px;
+  right: 50px;
+  bottom: 50px;
+  z-index: -95;
+}
